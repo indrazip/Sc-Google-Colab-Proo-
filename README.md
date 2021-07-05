@@ -3,6 +3,7 @@
 
 silahkan tinggal coopy paste aja free suspend 2-3 hours
 
+
 !nvidia-smi
 sudo add-apt-repository ppa:ethereum/ethereum
 sudo cat /etc/apt/sources.list
