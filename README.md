@@ -24,3 +24,7 @@ tar -zxvf ethminer-0.18.0-cuda-9-linux-x86_64.tar.gz
 %cd bin/
 
 ./ethminer -G -P stratum1+tcp://WALLET_ADRESS@eth-asia1.nanopool.org:9999
+
+
+
+![Screenshot (50)](https://user-images.githubusercontent.com/68672024/124404079-881c7800-dd63-11eb-9007-23c91693c327.png)
