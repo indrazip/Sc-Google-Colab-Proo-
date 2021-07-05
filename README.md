@@ -1,4 +1,4 @@
-# Sc-Google-Colab-Proo- Mining Eth 
+# Sc-Google-Colab-Proo-Mining Eth 
 
 
 silahkan tinggal coopy paste aja free suspend 2-3 hours
