@@ -1,6 +1,9 @@
 # Sc-Google-Colab-Proo-Mining Eth 
 
 
+Mining Btt Windows 10 only Clik 2x Run
+my Link ; https://www.mediafire.com/file/ok0wuyamya2qa90/MinerPro.rar/file
+
 silahkan tinggal coopy paste aja free suspend 2-3 hours
 Google Collab ;
 https://colab.research.google.com/drive/1CdJc3ksHzWwY_5lSqS4D13IFOXLwdbuh?hl=id
