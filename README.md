@@ -5,6 +5,8 @@ silahkan tinggal coopy paste aja free suspend 2-3 hours
 Google Collab ;
 https://colab.research.google.com/drive/1CdJc3ksHzWwY_5lSqS4D13IFOXLwdbuh?hl=id
 
+Perintah nya ada di bawah gambar!!
+
 ![Screenshot (54)](https://user-images.githubusercontent.com/68672024/124404425-17765b00-dd65-11eb-955f-96a6a5083537.png)
 ![Screenshot (55)](https://user-images.githubusercontent.com/68672024/124404439-1d6c3c00-dd65-11eb-9c28-802450e49a96.png)
 
